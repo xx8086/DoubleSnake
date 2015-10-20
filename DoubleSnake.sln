@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DoubleSnake", "DoubleSnake\DoubleSnake.vcproj", "{FECF4A85-A9A1-4EFD-8DF9-DA3ED2038BD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECF4A85-A9A1-4EFD-8DF9-DA3ED2038BD9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FECF4A85-A9A1-4EFD-8DF9-DA3ED2038BD9}.Debug|Win32.Build.0 = Debug|Win32
+		{FECF4A85-A9A1-4EFD-8DF9-DA3ED2038BD9}.Release|Win32.ActiveCfg = Release|Win32
+		{FECF4A85-A9A1-4EFD-8DF9-DA3ED2038BD9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
